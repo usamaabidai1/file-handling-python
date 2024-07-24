@@ -1,0 +1,6 @@
+Srno,IP address ,OS,MAC,avail_memory
+2,10.226.17.96,RHEL,d6:60:7b:6e:f6:1c,32 GB
+4,10.226.17.98,RHEL,d6:60:7b:6e:f6:3c,30 GB
+5,10.226.17.99,RHEL,d6:60:7b:6e:f6:4c,10 GB
+9,10.226.17.103,RHEL,d6:60:7b:6e:f6:8c,14 GB
+11,10.226.17.107,RHEL,d6:60:7b:6e:f6:9c,24 GB
